@@ -1,12 +1,10 @@
----
-layout: default
-title: "About"
-permalink: /https://bsidesdsm.github.io/BSidesDSM/about
----
-This is just a test to create a new About page for the Conference.
-
-## Welcome to another page
-
-_yay_
-
-[back](./)
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>About - My Cool Website</title>
+   </head>
+   <body>
+      <h1>About my website! 🎙</h1>
+      <p>Thanks for following this tutorial. 🙏</p>
+   </body>
+</html>
